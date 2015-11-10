@@ -1,0 +1,2 @@
+# hotpatch
+Hotpatch for android
